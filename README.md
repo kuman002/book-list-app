@@ -1,16 +1,41 @@
-# book_list_app
+# 📚 Flutter Book List App
 
-A new Flutter project.
+A simple Flutter application built using **Material Design** that displays a list of books with their titles and authors.  
+Users can dynamically add new books using a dialog-based input form.
 
-## Getting Started
+This project was developed as part of a Flutter assignment to demonstrate **UI design, state management, and list rendering**.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Displays a list of books with **title and author**
+- Two books are shown **by default** on app launch
+- Floating Action Button (FAB) to add a new book
+- Dialog prompts user to enter **book name and author name**
+- Uses **StatefulWidget** for state management
+- Clean **blue-themed Material UI**
+- Custom **app launcher icon**
+- Release **APK included**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🧱 Tech Stack
+
+- **Flutter**
+- **Dart**
+- Material Design Widgets
+
+---
+
+## ▶️ How to Run the App
+
+### Prerequisites
+- Flutter SDK installed
+- Android Studio / Emulator or Android phone
+
+### Steps
+```bash
+flutter pub get
+flutter run
+flutter build apk --release
