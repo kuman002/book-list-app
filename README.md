@@ -6,6 +6,9 @@ Users can dynamically add new books using a dialog-based input form.
 This project was developed as part of a Flutter assignment to demonstrate **UI design, state management, and list rendering**.
 
 ---
+## 👨‍💻 Author
+
+Kumaresan Kanthasamy
 
 ## 🚀 Features
 
