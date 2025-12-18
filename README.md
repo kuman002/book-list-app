@@ -37,6 +37,15 @@ Kumaresan Kanthasamy
   <img src="assets/screenshot_3.jpg" width="250" />
 </p>
 
+
+## App Demo
+
+<a href="assets/demo_video.mp4">
+  <img src="assets/thumbnail.jpg" width="240">
+</a>
+
+
+
 ## ▶️ How to Run the App
 
 ### Prerequisites
