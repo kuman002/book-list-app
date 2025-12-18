@@ -31,6 +31,12 @@ Kumaresan Kanthasamy
 
 ---
 
+<p align="center">
+  <img src="images/screenshot_1.jpg" width="250" />
+  <img src="images/screenshot_2.jpg" width="250" />
+  <img src="images/screenshot_3.jpg" width="250" />
+</p>
+
 ## ▶️ How to Run the App
 
 ### Prerequisites
