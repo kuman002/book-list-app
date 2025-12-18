@@ -40,7 +40,7 @@ Kumaresan Kanthasamy
 
 ## App Demo
 
-<a href="assets/demo_video.mp4">
+<a href="https://github.com/kuman002/book-list-app/issues/1#issue-3741190228">
   <img src="assets/thumbnail.jpg" width="240">
 </a>
 
